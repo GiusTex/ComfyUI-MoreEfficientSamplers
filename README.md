@@ -1,6 +1,8 @@
 # ComfyUI-MoreEfficientSamplers
 A couple more advanced samplers based on efficiency-nodes comfyui
 
+<img width="1788" height="696" alt="Nodes example" src="https://github.com/user-attachments/assets/e56a2a69-15ec-4c9a-bf25-129d52ad651d" />
+
 <img width="297" height="613" alt="Sampler Custom Advanced (Eff)" src="https://github.com/user-attachments/assets/44271998-3896-4788-ba9d-e11cc7c39157" />
 
 A simple edit of the native sampler custom to let it render a preview while still generating the image/video.

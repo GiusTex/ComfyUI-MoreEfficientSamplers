@@ -10,3 +10,8 @@ A simple edit of the native sampler custom to let it render a preview while stil
 <img width="333" height="615" alt="Sampler Custom Ultra Advanced (Eff)" src="https://github.com/user-attachments/assets/c2d84fe0-0ca4-49cf-8df2-afbfa3686f7e" />
 
 An edit of efficiency-nodes's ksampler adv. (eff) to let it accept custom samplers and schedulers (sigmas), very useful paired with the flowmatch scheduler, like [this](https://github.com/BigStationW/flowmatch_scheduler-comfyui), used with video models and lightx loras.
+
+### Download
+To install ComfyUI-MoreEfficientSamplers, follow these steps:
+- Go in the ComfyUI `custom_nodes` folder, then download the repository or clone it here: `git clone https://github.com/GiusTex/ComfyUI-MoreEfficientSamplers.git`.
+- Restart ComfyUI.
